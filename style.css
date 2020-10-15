@@ -27,6 +27,7 @@ ul{
   position: absolute;
   padding-top: 2%;
   right: 35%;
+  z-index: 100;
 }
 li{
   float: left;
@@ -89,9 +90,9 @@ a{
   width: 100%;
 }
 td{
-  //border: 1px solid #dddddd;
+  /*border: 1px solid #dddddd;*/
   text-align: left;
-  //padding: 2vh;
+  /*padding: 2vh;*/
   padding-left: 2vh;
   padding-right: 4vh;
   padding-bottom: 2vh;
@@ -102,9 +103,9 @@ td{
 }
 th{
   border-bottom: 1px solid black;
-  //border: 1px solid #dddddd;
+  /*border: 1px solid #dddddd;*/
   text-align: left;
-  //padding: 2vh;
+  /*padding: 2vh;*/
   padding-left: 2vh;
   padding-right: 4vh;
   padding-bottom: 0.5vh;
